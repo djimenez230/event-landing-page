@@ -1,0 +1,19 @@
+
+@media  (max-width: 1400px) {
+  img#banner {
+    display: none;
+  }
+}
+
+#header {
+  font-size: 55px;
+}
+
+#artist {
+  height: 45vh;
+  border-radius: 1%;
+}
+
+#logo {
+display: inline;
+}
